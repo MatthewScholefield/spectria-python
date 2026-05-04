@@ -16,7 +16,7 @@ from .writer import RunWriter
 def _allowed_origins() -> list[str]:
     """Exact-match allowed origins."""
     return [
-        "https://matthewscholefield.github.io/spectra",
+        "https://matthewscholefield.github.io",
     ]
 
 
